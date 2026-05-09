@@ -1,4 +1,4 @@
-# Hi, I'm Mohammmed 👋
+# Hi, I'm Mohammed 👋
 
 Full-stack developer based in Morocco. I work mainly with **Laravel** and **NestJS** on the backend, and **React / Next.js** on the frontend.
 
